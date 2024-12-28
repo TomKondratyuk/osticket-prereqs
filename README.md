@@ -61,13 +61,15 @@ And extend the ----> Internet Information Services folder, ----> World Wide Web 
 
 Hit OK, and it should install the web server. 
 
-3.) From the "osTicket-Installion-Files" folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+3.) In your VM download the entire folder at this link https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
-In your VM download the entire folder at this link https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
-Open the Installation files folder you downloaded and Install PHPManager for IIS
+4.) Open the "osTicket-Installion-Files" folder, install PHP Manager for IIS -> (PHPManagerForIIS_V1.5.0.msi)
 
 ![image](https://github.com/user-attachments/assets/858fda84-1f04-40f9-999b-98b9527c74c5)
+
+5.) From the "osTicket-Installion-Files" folder, Install Rewrite Module. -> rewrite_amd64_en-US.msi
+
 
 
 "/>
