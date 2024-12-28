@@ -171,6 +171,17 @@ Make sure you hit apply.
 
 ![image](https://github.com/user-attachments/assets/63ef6cf1-2ff0-48b1-811a-5d30028bdffc)
 
+Now osTicket has full control to the configuration file. 
+
+13.) Go back to your osTicket webiste. 
+
+Hit continue and Fill out everything, except the SQL things. 
+
+![image](https://github.com/user-attachments/assets/a2e7764f-d433-4587-b350-8b39da9e8205)
+
+BEFORE we continue with Intall Now we must create a database for osTicket in order to plug in the Database settings. 
+
+
 
 
 
