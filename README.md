@@ -209,15 +209,25 @@ Click Install Now.
 
 If you see this screen below than congratulations you have sucessfully installed osTicket!
 
-Browse to your help desk login page: http://localhost/osTicket/scp/login.php 
 
 ![image](https://github.com/user-attachments/assets/d043eec4-a205-4294-9b0e-22335240db78)
 
 
 
-Browse to your help desk login page: http://localhost/osTicket/scp/login.php 
+For Admins --> browse to your help desk login page here: http://localhost/osTicket/scp/login.php 
+
+ 
+
+Login with your user: adminuser and password: Password1 --- or whatever you chose. 
 
 ![image](https://github.com/user-attachments/assets/4b3345e3-f8e2-49e1-8e93-5f292926e686)
+
+For end users login page here: --> http://localhost/osTicket/
+
+![image](https://github.com/user-attachments/assets/493482c0-04df-4e2f-b86b-b959dadda924)
+
+
+
 
 
 
