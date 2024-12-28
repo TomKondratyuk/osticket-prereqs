@@ -215,6 +215,13 @@ Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
 
 
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php 
+
+![image](https://github.com/user-attachments/assets/4b3345e3-f8e2-49e1-8e93-5f292926e686)
+
+
+
+
 
 
 
