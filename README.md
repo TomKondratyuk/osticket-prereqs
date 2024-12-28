@@ -24,7 +24,7 @@ This tutorial covers the prerequisites and installation process for the open-sou
 
 <h2>Installation Steps</h2>
 
-<p> Hello, this is my tutorial on how to install osTicket on your Windows system. First you will be using a virutal machine(VM) through microsoft Azure. This will give you good practice using Azure, the 2nd most popular cloud provider, which is can be as valuable as formal job experience. As well as giving you experience connecting through Remote Desktop, which many Help Desk jobs use everyday to assist employees. And the cool thing is many Azure services offer free tiers or sandbox environments, so you can practice without significant costs.
+<p> Hello! this is my tutorial on how to install osTicket on your Windows system. First you will be using a virutal machine (VM) through microsoft Azure. This will give you good practice using Azure, the 2nd most popular cloud provider, which can be as valuable as formal job experience. Additionally, this tutorial offers hands-on experience with Remote Desktop connections, a tool commonly used by Help Desk professionals to assist employees everyday. And the cool thing is many Azure services offer free tiers or sandbox environments, so you can practice absolutely free.
   
 1.) Create Azure Virutal Machine (VM) 
 First Go to the Azure Portal and create and start up a Windows 10 Virtual Machine(VM) with at least 2-4 CPUs. 
