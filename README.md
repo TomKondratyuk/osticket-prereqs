@@ -66,9 +66,11 @@ Hit OK, and it should install the web server.
 
 4.) Open the "osTicket-Installion-Files" folder, install PHP Manager for IIS -> (PHPManagerForIIS_V1.5.0.msi)
 
+![image](https://github.com/user-attachments/assets/1d5fc895-e8e5-4929-85c0-31e8b1b4884b)
+
 ![image](https://github.com/user-attachments/assets/858fda84-1f04-40f9-999b-98b9527c74c5)
 
-![image](https://github.com/user-attachments/assets/1d5fc895-e8e5-4929-85c0-31e8b1b4884b)
+
 
 
 5.) Also in the "osTicket-Installion-Files" folder, Install Rewrite Module. -> rewrite_amd64_en-US.msi
