@@ -64,7 +64,7 @@ Hit OK, and it should install the web server.
 3.) In your VM download the entire folder at this link ---> https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 
-4.) Open the "osTicket-Installion-Files" folder, install PHP Manager for IIS -> (PHPManagerForIIS_V1.5.0.msi)
+4.) Extract folder to your desktop and then open the "osTicket-Installion-Files" folder, install PHP Manager for IIS -> (PHPManagerForIIS_V1.5.0.msi)
 
 ![image](https://github.com/user-attachments/assets/1d5fc895-e8e5-4929-85c0-31e8b1b4884b)
 
