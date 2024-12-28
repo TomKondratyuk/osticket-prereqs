@@ -61,7 +61,7 @@ And extend the ----> Internet Information Services folder, ----> World Wide Web 
 
 Hit OK, and it should install the web server. 
 
-3.) In your VM download the entire folder at this link https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+3.) In your VM download the entire folder at this link ---> https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 
 4.) Open the "osTicket-Installion-Files" folder, install PHP Manager for IIS -> (PHPManagerForIIS_V1.5.0.msi)
@@ -79,7 +79,7 @@ Hit OK, and it should install the web server.
 
 unzip and extract PHP 7.3.8 (php-7.3.8-nts-win32-VC15-x86.zip) into the "C \PHP" folder
 
-
+7.) In "osTicket-Installion-Files" folder" -> Install VC_redist.x86
 
 "/>
 </p>
