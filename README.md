@@ -32,16 +32,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p> Hello, this is my tutorial on how to install osTicket on your system. First you will be using a virutal machine(VM) through microsoft Azure. This will give you good practice using Azure, the 2nd most popular cloud provider, which is often as valuable as formal job experience. As well as giving you experience connecting through Remote Desktop, which many Help Desk jobs use everyday to assist employees. And the cool thing is many Azure services offer free tiers or sandbox environments, so you can practice without significant costs.
   
-1.) First Go to the Azure Portal and create and start up a Windows 10 Virtual Machine(VM) with at least 2-4 CPUs. 
+1.) Create Azure Virutal Machine (VM) 
+First Go to the Azure Portal and create and start up a Windows 10 Virtual Machine(VM) with at least 2-4 CPUs. 
 
 ![Capture1](https://github.com/user-attachments/assets/b35b9298-c613-4c88-a8bf-78286b253d09)
 
+2.) Connect to your Virtual Machine (VM) via remote desktop. 
 Next, connect to your Azure VM through Remote Desktop Connection, using your Azure VM's public IP address. 
 Copy and Paste your Azure VM public IP.
 ![image](https://github.com/user-attachments/assets/01670286-454f-43ff-95fd-91265de6ec24)
 
 ![image](https://github.com/user-attachments/assets/1b8984e5-7c55-4d59-982b-b1241aeec99e)
 
+
+2.) Install/ Enable IIS in WIndows **WITH CGI**
+Open Uninstall Programs and Features in Windows. -Through Control panel or 
 "/>
 </p>
 <p>
