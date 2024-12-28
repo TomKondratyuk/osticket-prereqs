@@ -44,7 +44,8 @@ Copy and Paste your Azure VM public IP
 
 3.) Install/ Enable Internet Information Services (IIS) in WIndows **WITH CGI (Common Gateway Interface)**
 
-**CGI (Common Gateway Interface) allows the website to run programs that manage things like creating new tickets and updating tickets and storing that information into a database. 
+**CGI (Common Gateway Interface) allows the website to run programs that manage things like creating new tickets and updating tickets and storing that information into a database.**
+**IIS is a web server from Microsoft. IIS is used to host websites and web applications on Windows computers. When setting up a ticketing system, IIS helps by serving the web pages and managing the communication between the user and the server.
 
 Through control panel open "Programs and Features" 
 
@@ -100,9 +101,9 @@ This is bad practice in an acutal real life senario. However this is just for pr
 
 Keep going through and hit "Exute" --> then "Finish" when configuration is completed. 
 
-9.) Open ISS as Admin 
+9.) Open IIS as Admin 
 
-Hit start and search Internet Information Services ISS, if installed it should pop up. Hit run as Administrator 
+Hit start and search Internet Information Services IIS, if installed it should pop up. Hit run as Administrator 
 
 Open PHP manager  
 
@@ -116,8 +117,8 @@ Choose the executable file in the C:\PHP folder you created
 
 ![image](https://github.com/user-attachments/assets/14c7b589-a059-4a6f-a409-c7ff38c23c85)
 
-Restart the Internet Information Services (ISS)
-to do this go back in ISS manager -> hit stop and start the server again
+Restart the Internet Information Services (IIS)
+to do this go back in IIS manager -> hit stop and start the server again
 
 ![image](https://github.com/user-attachments/assets/6529981b-c3f7-48ef-9791-97b5cf9bc10a)
 
@@ -131,7 +132,7 @@ Copy the "upload" folder from your extracted osTicket folder into your "c:\inetp
 
 rename "upload" to -> "osTicket" Exactly like this. *case sensitive*
 
-Once again stop and start ISS Server in ISS Manager 
+Once again stop and start IIS Server in IIS Manager 
 
 11.) On the left extend folder Sites -> Default Web Site-> osTicket
  Then On the right, click "Browse *:80*"
@@ -147,7 +148,7 @@ But, If you get the error in this picture down below, it probably means you didn
 
 ![image](https://github.com/user-attachments/assets/8651d588-8ee8-4aef-89a6-f573060fc232)
 
-Some of the extensions are not enabled so go back to PHP manager --> Sites --> default Web sites --> osticket 
+Some of the extensions are not enabled so go back to PHP manager in IIS --> Sites --> Default Web Site --> osticket 
 Click PHP manager and at the bottom click enable or disable an extension 
 enable the following--> php.imap, php.intl, php_opcache
 
