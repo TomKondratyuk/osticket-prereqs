@@ -36,6 +36,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![Capture1](https://github.com/user-attachments/assets/b35b9298-c613-4c88-a8bf-78286b253d09)
 
 Next, connect to your Azure VM through Remote Desktop Connection, using your Azure VM's public IP address. 
+Copy and Paste your Azure VM public IP.
+![image](https://github.com/user-attachments/assets/01670286-454f-43ff-95fd-91265de6ec24)
+
 ![image](https://github.com/user-attachments/assets/1b8984e5-7c55-4d59-982b-b1241aeec99e)
 
 "/>
