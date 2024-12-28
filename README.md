@@ -83,7 +83,7 @@ unzip and extract PHP 7.3.8 (php-7.3.8-nts-win32-VC15-x86.zip) into the "C \PHP"
 
 In the setup wizard choose "typical" setup type. 
 
-Checkmark the box to "Launch the MySQL Instance Configuration Wizard".
+At the end of the setup wizard -> Checkmark ✓ the box to "Launch the MySQL Instance Configuration Wizard".
 
 Choose "Standard Configuration" 
 
