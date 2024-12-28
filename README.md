@@ -46,6 +46,7 @@ Copy and Paste your Azure VM public IP.
 
 
 3.) Install/ Enable IIS in WIndows **WITH CGI**
+
 Through control panel open "Programs and Features". 
 Click on "Turn Windows features on or off
 
