@@ -133,7 +133,7 @@ rename "upload" to -> "osTicket" Exactly like this. *case sensitive*
 
 Once again stop and start ISS Server in ISS Manager 
 
-11.) Go to sites -> Default -> osTicket
+11.) On the left extend sites folder -> Default -> osTicket
  Then On the right, click "Browse *:80*
 
 ![image](https://github.com/user-attachments/assets/1c1abb28-74f7-44cc-be03-875c78a76cfd)
