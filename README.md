@@ -138,7 +138,7 @@ If you did everything correctly you should see this page pop up. (This part of t
 ![image](https://github.com/user-attachments/assets/f6a6ce50-b411-4813-a6d5-40fe7887bd32)
 
 
-But, If you get this error, it probably means you didn't rename the "upload" to "osTicket" correctly. Check for spaces or improper capitalization 
+But, If you get the error in this picture down below, it probably means you didn't rename the "upload" to "osTicket" correctly. *Check for spaces and proper capitalization* 
 
 ![image](https://github.com/user-attachments/assets/8651d588-8ee8-4aef-89a6-f573060fc232)
 
