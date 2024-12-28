@@ -135,7 +135,7 @@ Once again stop and start ISS Server in ISS Manager.
 
 ![image](https://github.com/user-attachments/assets/1c1abb28-74f7-44cc-be03-875c78a76cfd)
 
-If you did everything correctly you should see this page pop up. 
+If you did everything correctly you should see this page pop up. (This part of the lab must be working in order to continue with the rest.)
 
 ![image](https://github.com/user-attachments/assets/f6a6ce50-b411-4813-a6d5-40fe7887bd32)
 
@@ -144,7 +144,14 @@ But, If you get this error, it probably means you didn't rename the "upload" to 
 
 ![image](https://github.com/user-attachments/assets/8651d588-8ee8-4aef-89a6-f573060fc232)
 
+Some of the extensions are not enabled so go back to PHP manager --> Sites --> default Web sites --> osticket. 
+Click PHP manager and at the bottom click enable or disable an extension. 
+enable the following--> php.imap, php.intl, php_opcache.
 
+![image](https://github.com/user-attachments/assets/7404727c-89f1-4df2-ac69-651f151b0898)
+
+
+12.) Assign Permissions: ost-config.php 
 
 
 
