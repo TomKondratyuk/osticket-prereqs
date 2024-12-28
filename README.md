@@ -184,6 +184,7 @@ BEFORE we continue with Intall Now we must create a database for osTicket in ord
 ![image](https://github.com/user-attachments/assets/47791963-6e83-4422-9a99-035b81c539f9)
 
 Checkmark ✓ the box to launch it after installation 
+
 Hit New. 
 
 ![image](https://github.com/user-attachments/assets/91c7e82c-ea6f-4fe1-a7d3-7bc25ff6bb96)
