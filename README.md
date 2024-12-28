@@ -42,7 +42,9 @@ Copy and Paste your Azure VM public IP
 ![image](https://github.com/user-attachments/assets/1b8984e5-7c55-4d59-982b-b1241aeec99e)
 
 
-3.) Install/ Enable Internet Information Services (IIS) in WIndows **WITH CGI**
+3.) Install/ Enable Internet Information Services (IIS) in WIndows **WITH CGI (Common Gateway Interface)**
+
+CGI (Common Gateway Interface) allows the website to run programs that manage things like creating new tickets and updating tickets and storing that information into a database. 
 
 Through control panel open "Programs and Features" 
 
