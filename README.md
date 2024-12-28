@@ -89,6 +89,41 @@ Choose "Standard Configuration"
 
 ![image](https://github.com/user-attachments/assets/9eb185e0-1e13-4ea2-b0ed-4bd7ee4729eb)
 
+Hit next until you get to this screen
+
+![image](https://github.com/user-attachments/assets/935264e8-86a5-4272-967f-dee226f1a5f7)
+
+Make root password: "root". 
+This is bad practice in an acutal real life senario. However this is just for practice so let's keep it simple to not forget.
+
+Keep going through and hit "Exute" --> then "Finish" when configuration is completed. 
+
+9.) Open ISS as Admin. 
+
+Hit start and search ISS, it should pop up. Hit run as Administrator. 
+
+Open PHP manager  
+
+![image](https://github.com/user-attachments/assets/90531959-0992-4325-b398-7be2b38a1e1a)
+
+Hit Register new PHP verison and hit the 3 dots. 
+
+![image](https://github.com/user-attachments/assets/ac1f958a-1bc4-4eb7-b74b-28199ffb9958)
+
+Choose the executable file in the C:\PHP folder you created.
+
+![image](https://github.com/user-attachments/assets/14c7b589-a059-4a6f-a409-c7ff38c23c85)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
