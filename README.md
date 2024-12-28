@@ -198,6 +198,15 @@ right click unnamed and hit create new database
 
 ![image](https://github.com/user-attachments/assets/13055b69-f2b6-4ec9-909f-03a50a25b1ed)
 
+Name it osTicket  *case sensetive* and hit Ok
+
+15.) Now back to osTicket website installer to finish the SQL database settings section. 
+
+![image](https://github.com/user-attachments/assets/e5190f75-0e7c-4a59-bcef-c5ebac20c5fc)
+
+
+
+
 
 
 
