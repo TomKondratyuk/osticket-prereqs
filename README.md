@@ -98,7 +98,7 @@ Keep going through and hit "Exute" --> then "Finish" when configuration is compl
 
 9.) Open ISS as Admin 
 
-Hit start and search ISS, it should pop up. Hit run as Administrator 
+Hit start and search Internet Information Services ISS, if installed it should pop up. Hit run as Administrator 
 
 Open PHP manager  
 
@@ -112,7 +112,7 @@ Choose the executable file in the C:\PHP folder you created
 
 ![image](https://github.com/user-attachments/assets/14c7b589-a059-4a6f-a409-c7ff38c23c85)
 
-Restart the ISS. In ISS manager -> open and start the server
+Restart the Internet Information Services (ISS). In ISS manager -> open and start the server
 
 ![image](https://github.com/user-attachments/assets/6529981b-c3f7-48ef-9791-97b5cf9bc10a)
 
@@ -164,8 +164,8 @@ New Permissions -> Everyone -> All
 
 ![image](https://github.com/user-attachments/assets/37c980eb-6f44-4b98-abd2-ce072554cff0)
 
-Checkmark the Full control box to give it -> Modify, read and excute, read, and write permissions. 
-Make sure you hit apply. 
+Checkmark ✓ the Full control box to give it -> Modify, read and excute, read, and write permissions. 
+Make sure you hit apply after. 
 
 ![image](https://github.com/user-attachments/assets/63ef6cf1-2ff0-48b1-811a-5d30028bdffc)
 
@@ -183,7 +183,7 @@ BEFORE we continue with Intall Now we must create a database for osTicket in ord
 
 ![image](https://github.com/user-attachments/assets/47791963-6e83-4422-9a99-035b81c539f9)
 
-Checkmark the box to launch it after installation 
+Checkmark ✓ the box to launch it after installation 
 Hit New. 
 
 ![image](https://github.com/user-attachments/assets/91c7e82c-ea6f-4fe1-a7d3-7bc25ff6bb96)
