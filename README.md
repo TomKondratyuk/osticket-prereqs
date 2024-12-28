@@ -171,7 +171,7 @@ New Permissions -> Everyone -> All
 
 ![image](https://github.com/user-attachments/assets/37c980eb-6f44-4b98-abd2-ce072554cff0)
 
-Checkmark ✓ the Full control box to give it -> Modify, read and excute, read, and write permissions. 
+Checkmark ☑  the Full control box to give it -> Modify, read and excute, read, and write permissions. 
 Make sure you hit apply after. 
 
 ![image](https://github.com/user-attachments/assets/63ef6cf1-2ff0-48b1-811a-5d30028bdffc)
@@ -190,7 +190,7 @@ BEFORE we continue with Intall Now we must create a database for osTicket in ord
 
 ![image](https://github.com/user-attachments/assets/47791963-6e83-4422-9a99-035b81c539f9)
 
-Checkmark ✓ the box to launch it after installation 
+Checkmark ☑  the box to launch it after installation 
 
 Hit New. 
 
