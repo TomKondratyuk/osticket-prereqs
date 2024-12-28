@@ -226,6 +226,8 @@ For end users login page here: --> http://localhost/osTicket/
 
 ![image](https://github.com/user-attachments/assets/493482c0-04df-4e2f-b86b-b959dadda924)
 
+In the next tutorial we will configure things like SLAs (Service Level Agreements) and departments. Check out osTicket: Post-Installation Configuration for that. :) 
+
 
 
 
