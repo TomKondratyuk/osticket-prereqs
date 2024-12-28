@@ -65,6 +65,10 @@ Hit OK, and it should install the web server.
 
 In your VM download the entire folder at this link https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
+Open the Installation files folder you downloaded and Install PHPManager for IIS
+
+![image](https://github.com/user-attachments/assets/858fda84-1f04-40f9-999b-98b9527c74c5)
+
 
 "/>
 </p>
