@@ -56,7 +56,7 @@ Fill the Internet Information Services box
 
 ![Capt4ure](https://github.com/user-attachments/assets/f0ec513a-da0f-45d7-915f-e4e57ce71964)
 
-And extend the ----> Internet Information Services folder, ----> World Wide Web Servies, ----> Application Development Features ----> Check CGI 
+Extend the ----> Internet Information Services folder, ----> World Wide Web Servies, ----> Application Development Features ----> Checkmark ☑  CGI box
 
 ![Capt5ure](https://github.com/user-attachments/assets/7cd4bfcd-1d64-479f-88fc-adceaf9a3b81)
 
