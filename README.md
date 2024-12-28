@@ -206,7 +206,7 @@ Name it osTicket  *case sensetive* and hit Ok
 
 Click Install Now. 
 
-If you see this screen below than congradulations you have sucessfully installed osTicket!
+If you see this screen below than congratulations you have sucessfully installed osTicket!
 
 ![image](https://github.com/user-attachments/assets/d043eec4-a205-4294-9b0e-22335240db78)
 
