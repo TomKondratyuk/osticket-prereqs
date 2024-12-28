@@ -116,9 +116,8 @@ Choose the executable file in the C:\PHP folder you created
 
 ![image](https://github.com/user-attachments/assets/14c7b589-a059-4a6f-a409-c7ff38c23c85)
 
-Restart the Internet Information Services (ISS) Hit Stop and then Start. 
-
-In ISS manager -> open and start the server
+Restart the Internet Information Services (ISS)
+to do this go back in ISS manager -> hit stop and start the server again
 
 ![image](https://github.com/user-attachments/assets/6529981b-c3f7-48ef-9791-97b5cf9bc10a)
 
