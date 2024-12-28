@@ -169,6 +169,9 @@ New Permissions -> Everyone -> All
 Checkmark the Full control box to give it -> Modify, read and excute, read, and write permissions. 
 Make sure you hit apply. 
 
+![image](https://github.com/user-attachments/assets/63ef6cf1-2ff0-48b1-811a-5d30028bdffc)
+
+
 
 
 
