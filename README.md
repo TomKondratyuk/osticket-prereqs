@@ -79,9 +79,7 @@ Hit OK, and it should install the web server.
 
 unzip and extract PHP 7.3.8 (php-7.3.8-nts-win32-VC15-x86.zip) into the "C \PHP" folder
 
-![image](https://github.com/user-attachments/assets/b7dab69e-6d01-42b4-9f64-240540283fc6)
 
-![image](https://github.com/user-attachments/assets/1d5fc895-e8e5-4929-85c0-31e8b1b4884b)
 
 "/>
 </p>
