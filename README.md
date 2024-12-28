@@ -51,13 +51,15 @@ Through control panel open "Programs and Features".
 Click on "Turn Windows features on or off
 Fill the Internet Information Services box. 
 
-![Capt4ure](https://github.com/user-attachments/assets/f0ec513a-da0f-45d7-915f-e4e57ce71964)
+![Captu3re](https://github.com/user-attachments/assets/f53ee020-f30d-4262-b8db-0f082a1011d7)
+
 
 And extend the ----> Internet Information Services folder, ----> World Wide Web Servies, ----> Application Development Features ----> Check CGI 
 
+![Capt4ure](https://github.com/user-attachments/assets/f0ec513a-da0f-45d7-915f-e4e57ce71964)
 
 
-![Captu3re](https://github.com/user-attachments/assets/f53ee020-f30d-4262-b8db-0f082a1011d7)
+
 
 "/>
 </p>
