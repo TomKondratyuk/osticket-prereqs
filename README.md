@@ -32,8 +32,11 @@ After creating Azure account, Go to the Azure Portal and create and start up a W
 ![Capture1](https://github.com/user-attachments/assets/b35b9298-c613-4c88-a8bf-78286b253d09)
 
 2.) Connect to your Virtual Machine (VM) via remote desktop
+
 Next, connect to your Azure VM through Remote Desktop Connection, using your Azure VM's public IP address 
+
 Copy and Paste your Azure VM public IP
+
 ![image](https://github.com/user-attachments/assets/01670286-454f-43ff-95fd-91265de6ec24)
 
 ![image](https://github.com/user-attachments/assets/1b8984e5-7c55-4d59-982b-b1241aeec99e)
@@ -42,7 +45,9 @@ Copy and Paste your Azure VM public IP
 3.) Install/ Enable Internet Information Services (IIS) in WIndows **WITH CGI**
 
 Through control panel open "Programs and Features" 
+
 Click on "Turn Windows features on or off
+
 Fill the Internet Information Services box
 
 ![Captu3re](https://github.com/user-attachments/assets/f53ee020-f30d-4262-b8db-0f082a1011d7)
@@ -55,7 +60,9 @@ And extend the ----> Internet Information Services folder, ----> World Wide Web 
 
 Hit OK, and it should install the web server
 
-3.) In your VM download the entire folder at this link ---> https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+3.) In your VM download the entire folder at this link ---> 
+
+https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 
 4.) Extract folder to your desktop and then open the "osTicket-Installion-Files" folder, install PHP Manager for IIS -> (PHPManagerForIIS_V1.5.0.msi)
