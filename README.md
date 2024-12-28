@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
+<p> Hello, this is my tutorial on how to install osTicket on your system. First we will be using a virutal machine(VM) through microsoft Azure. This will give you good practice using Azure, the 2nd most popular cloud provider, so that you can put on resume that you have hands on experience with Azure. As well as giving you experience connecting through Remote Desktop, which many Help Desk jobs use everyday to assist employees. 
 
 ![Capture1](https://github.com/user-attachments/assets/b35b9298-c613-4c88-a8bf-78286b253d09)
 
