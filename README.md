@@ -71,8 +71,6 @@ Hit OK, and it should install the web server.
 ![image](https://github.com/user-attachments/assets/858fda84-1f04-40f9-999b-98b9527c74c5)
 
 
-
-
 5.) Also in the "osTicket-Installion-Files" folder, Install Rewrite Module. -> rewrite_amd64_en-US.msi
 
 6.) Create A new folder on your Windows: (C) Drive. Named PHP
@@ -80,6 +78,21 @@ Hit OK, and it should install the web server.
 unzip and extract PHP 7.3.8 (php-7.3.8-nts-win32-VC15-x86.zip) into the "C \PHP" folder
 
 7.) In "osTicket-Installion-Files" folder" -> Install VC_redist.x86
+
+8.) In "osTicket-Installion-Files" folder" -> Install mysql-5.5.62-win32
+
+In the setup wizard choose "typical" setup type. 
+
+Checkmark the box to "Launch the MySQL Instance Configuration Wizard".
+
+Choose "Standard Configuration" 
+
+![image](https://github.com/user-attachments/assets/9eb185e0-1e13-4ea2-b0ed-4bd7ee4729eb)
+
+
+
+
+
 
 "/>
 </p>
