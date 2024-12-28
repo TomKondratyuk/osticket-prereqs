@@ -179,6 +179,28 @@ Hit continue and Fill out everything, except the SQL things.
 
 BEFORE we continue with Intall Now we must create a database for osTicket in order to plug in the Database settings. 
 
+14.) Install HeidiSQL in your Installation folder- 
+
+![image](https://github.com/user-attachments/assets/47791963-6e83-4422-9a99-035b81c539f9)
+
+Checkmark the box to launch it after installation 
+Hit New. 
+
+![image](https://github.com/user-attachments/assets/91c7e82c-ea6f-4fe1-a7d3-7bc25ff6bb96)
+
+set-
+Username: root
+Password: root
+
+hit open- and this opens a connection to our database
+
+right click unnamed and hit create new database 
+
+![image](https://github.com/user-attachments/assets/13055b69-f2b6-4ec9-909f-03a50a25b1ed)
+
+
+
+
 
 
 
