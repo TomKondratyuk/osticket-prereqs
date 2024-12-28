@@ -114,6 +114,24 @@ Choose the executable file in the C:\PHP folder you created.
 
 ![image](https://github.com/user-attachments/assets/14c7b589-a059-4a6f-a409-c7ff38c23c85)
 
+Restart the ISS. In ISS manager -> open and start the server. 
+
+![image](https://github.com/user-attachments/assets/6529981b-c3f7-48ef-9791-97b5cf9bc10a)
+
+10.) Intstall osTicket v1.15.8
+
+In the "osTicket-Installion-Files" folder. Extract "osTick v1.15.8.zip". 
+
+Copy the "upload" folder into your "c:\inetpub\wwwroot"
+
+![image](https://github.com/user-attachments/assets/1856d6f3-bd9c-4009-8ccb-2729ba195733)
+
+rename "upload" to -> "osTicket" Exactly like this. *case sensitive*. 
+
+
+
+
+
 
 
 
