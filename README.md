@@ -59,8 +59,11 @@ And extend the ----> Internet Information Services folder, ----> World Wide Web 
 
 ![Capt5ure](https://github.com/user-attachments/assets/7cd4bfcd-1d64-479f-88fc-adceaf9a3b81)
 
+Hit OK, and it should install the web server. 
 
+3.) From the "osTicket-Installion-Files" folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 
+In your VM download the entire folder at this link https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 
 "/>
