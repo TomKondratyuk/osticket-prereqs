@@ -31,11 +31,11 @@ After creating a free Azure account, Go to the Azure Portal and create and start
 
 ![Capture1](https://github.com/user-attachments/assets/b35b9298-c613-4c88-a8bf-78286b253d09)
 
-2.) Connect to your Virtual Machine (VM) via remote desktop
+2.) Connect to your Virtual Machine (VM) via Microsoft remote desktop
 
-Next, connect to your Azure VM through Remote Desktop Connection, using your Azure VM's public IP address 
+Next, In Windows connect to your Azure VM through Remote Desktop Connection, using your Azure VM's public IP address 
 
-Copy and Paste your Azure VM public IP
+Copy and Paste your Azure VM public IP. Here's an example below.
 
 ![image](https://github.com/user-attachments/assets/01670286-454f-43ff-95fd-91265de6ec24)
 
