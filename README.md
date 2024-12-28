@@ -61,7 +61,6 @@ And extend the ----> Internet Information Services folder, ----> World Wide Web 
 Hit OK, and it should install the web server
 
 3.) In your VM download the entire folder at this link ---> 
-
 https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 
