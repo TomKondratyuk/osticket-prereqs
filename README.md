@@ -45,7 +45,7 @@ Copy and Paste your Azure VM public IP
 3.) Install/ Enable Internet Information Services (IIS) in WIndows **WITH CGI (Common Gateway Interface)**
 
 **CGI (Common Gateway Interface) allows the website to run programs that manage things like creating new tickets and updating tickets and storing that information into a database.**
-**IIS is a web server from Microsoft. IIS is used to host websites and web applications on Windows computers. When setting up a ticketing system, IIS helps by serving the web pages and managing the communication between the user and the server.
+**IIS is a web server from Microsoft. IIS is used to host websites and web applications on Windows computers. When setting up a ticketing system, IIS helps by serving the web pages and managing the communication between the user and the server.**
 
 Through control panel open "Programs and Features" 
 
